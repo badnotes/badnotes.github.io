@@ -3,5 +3,6 @@ import sitemap from "@astrojs/sitemap";
 
 export default defineConfig({
   integrations: [sitemap()],
-  site: "https://fyme.cc/",
+  site: 'https://badnotes.github.io',
+  base: 'fyme.cc',
 });
