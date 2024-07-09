@@ -1,14 +1,11 @@
-# Astro Creek - a blog theme for Astro
+# Fyme - a blog by Astro, Theme-Creek
 
-![](./public/images/creek.png)
+![](./)
 
-Creek is an open source blog theme for [Astro SSG](https://docs.astro.build/getting-started/).
-
-## Demo
-
-[View Creek on Netlify](https://astro-theme-creek.netlify.app/)
 
 ## Credits
+
+Thans to [Astro-Theme-Creek](https://github.com/robertguss/Astro-Theme-Creek)
 
 This theme is built upon a theme called [Starter's Creek](https://github.com/statamic/starter-kit-starters-creek) for [Statamic CMS](https://statamic.com/). Full design credit goes to [Jack McDade](https://twitter.com/jackmcdade).
 
