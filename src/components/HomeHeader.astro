@@ -6,7 +6,8 @@ description: string;
 const { title, description } = Astro.props;
 ---
 
-<header class="mx-auto max-w-xl text-center content">
-  <h2 class="mb-4" data-test="header-title">{title}</h2>
-  <p data-test="header-description">{description}</p>
+<header class="mx-auto text-center content flex">
+  <div class="mb-20">
+    <p data-test="header-description">{description}</p>
+  </div>
 </header>
