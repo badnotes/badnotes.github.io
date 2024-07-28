@@ -23,6 +23,7 @@
     "autoprefixer": "^10.4.19",
     "dayjs": "^1.11.10",
     "lunr": "^2.3.9",
-    "sitemap": "^7.1.1"
+    "sitemap": "^7.1.1",
+    "string-width": "4.2.3"
   }
 }
